@@ -31,7 +31,7 @@ import VarType from "../../../Map/VarType";
 
 import Styles from "./chart.scss";
 
-const defaultHeight = 100;
+const defaultHeight = "100%";
 const defaultColor = undefined; // Allows the line color to be set by the css, esp. in the feature info panel.
 
 const Chart = createReactClass({
