@@ -275,7 +275,7 @@
     "search": "Search for '{{searchText}}' in the Data Catalogue",
     "viewLess": "View less {{name}} results",
     "viewMore": "View more {{name}} results",
-    "placeholder": "Search for locations",
+    "placeholder": "Search for data",
     "searchCatalogue": "Search the catalogue"
   },
   "mobile": {
